@@ -13,5 +13,5 @@ http.createServer(function (req, res) {
 	});
  }).listen(9000, '127.0.0.1');
 
-// log it :)
+// log it
 console.log('Server running at http://127.0.0.1:9000/');
